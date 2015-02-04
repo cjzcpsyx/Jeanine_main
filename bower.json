@@ -5,7 +5,6 @@
   "authors": [
     "Harry Jianzhong Chen"
   ],
-  "license": "CC",
   "private": true,
   "ignore": [
     "**/.*",
